@@ -1,0 +1,102 @@
+[
+    {
+        "Block": "Palus",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.011510589768654284
+    },
+    {
+        "Block": "Kavathemahankal",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.014219150025601637
+    },
+    {
+        "Block": NaN,
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.00027683072529650026
+    },
+    {
+        "Block": "Shirala",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.00647219903513685
+    },
+    {
+        "Block": "Khanapur-Vita",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0075474678523411495
+    },
+    {
+        "Block": "Palus",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.004612678200839321
+    },
+    {
+        "Block": "Valva-Islampur",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0017347528371454565
+    },
+    {
+        "Block": "Kadegaon",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0035026371769094036
+    },
+    {
+        "Block": "Palus",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0
+    },
+    {
+        "Block": NaN,
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0
+    },
+    {
+        "Block": NaN,
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Shirala",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.02758832565284178
+    },
+    {
+        "Block": "Khanapur-Vita",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Kavathemahankal",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Shirala",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Shirala",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Kadegaon",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Miraj",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Khanapur-Vita",
+        "Hybrid_Risk_Prediction": 1,
+        "Hybrid_Risk_Probability": 0.9509658268225591
+    },
+    {
+        "Block": "Jath",
+        "Hybrid_Risk_Prediction": 0,
+        "Hybrid_Risk_Probability": 0.0
+    }
+]

@@ -1,0 +1,9 @@
+accuracy: 0.9933333333333333
+best_max_depth: 6
+best_n_estimators: 310
+feature_weights:
+- 0.6257242689922262
+- 1.2370965504320512
+- 1.4745918113353298
+- 0.5521986290449716
+model: Hybrid_AIS_CSA_RandomForest

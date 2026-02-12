@@ -1,0 +1,102 @@
+[
+    {
+        "Block": "Palus",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0
+    },
+    {
+        "Block": "Kavathemahankal",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0
+    },
+    {
+        "Block": NaN,
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0
+    },
+    {
+        "Block": "Shirala",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0
+    },
+    {
+        "Block": "Khanapur-Vita",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0004761904761904762
+    },
+    {
+        "Block": "Palus",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0
+    },
+    {
+        "Block": "Valva-Islampur",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.002606837606837607
+    },
+    {
+        "Block": "Kadegaon",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0038095238095238095
+    },
+    {
+        "Block": "Palus",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0002380952380952381
+    },
+    {
+        "Block": NaN,
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.02133747412008282
+    },
+    {
+        "Block": NaN,
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.017243697478991595
+    },
+    {
+        "Block": "Shirala",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0002380952380952381
+    },
+    {
+        "Block": "Khanapur-Vita",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0004761904761904762
+    },
+    {
+        "Block": "Kavathemahankal",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0
+    },
+    {
+        "Block": "Shirala",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0
+    },
+    {
+        "Block": "Shirala",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.04854008849916778
+    },
+    {
+        "Block": "Kadegaon",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0
+    },
+    {
+        "Block": "Miraj",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0
+    },
+    {
+        "Block": "Khanapur-Vita",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.0
+    },
+    {
+        "Block": "Jath",
+        "Risk_Prediction": 0,
+        "Risk_Probability": 0.01714285714285714
+    }
+]

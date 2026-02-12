@@ -1,0 +1,102 @@
+[
+    {
+        "Block": "Palus",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Kavathemahankal",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.0
+    },
+    {
+        "Block": NaN,
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Shirala",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Khanapur-Vita",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Palus",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.00088261253309797
+    },
+    {
+        "Block": "Valva-Islampur",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Kadegaon",
+        "pis_Risk_Prediction": 1,
+        "pis_Risk_Probability": 0.9944101206237128
+    },
+    {
+        "Block": "Palus",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.014563106796116505
+    },
+    {
+        "Block": NaN,
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.005620848237097599
+    },
+    {
+        "Block": NaN,
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.011357829702234402
+    },
+    {
+        "Block": "Shirala",
+        "pis_Risk_Prediction": 1,
+        "pis_Risk_Probability": 0.8664265580958346
+    },
+    {
+        "Block": "Khanapur-Vita",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.0016490918381567334
+    },
+    {
+        "Block": "Kavathemahankal",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.001251281432792619
+    },
+    {
+        "Block": "Shirala",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Shirala",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.010591350397175639
+    },
+    {
+        "Block": "Kadegaon",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Miraj",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.014563106796116505
+    },
+    {
+        "Block": "Khanapur-Vita",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.0
+    },
+    {
+        "Block": "Jath",
+        "pis_Risk_Prediction": 0,
+        "pis_Risk_Probability": 0.0024271844660194173
+    }
+]

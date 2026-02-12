@@ -1,0 +1,9 @@
+accuracy: 0.9944444444444445
+best_max_depth: 7
+best_n_estimators: 206
+feature_weights:
+- 0.8910328691273987
+- 0.7342033709263341
+- 0.7195539232298019
+- 1.4598628027134553
+model: Hybrid_AIS_PSO_RandomForest

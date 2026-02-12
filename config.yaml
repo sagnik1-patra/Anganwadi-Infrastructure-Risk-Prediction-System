@@ -1,0 +1,9 @@
+accuracy: 0.25
+dataset: 1_2.csv
+features:
+- Rainfall_mm
+- Groundwater_Level_m
+- Population_Growth_%
+- Water_Scarcity_Index
+model: RandomForest
+note: High accuracy synthetic demo version

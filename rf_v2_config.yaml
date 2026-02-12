@@ -1,0 +1,4 @@
+accuracy: 0.9916666666666667
+model: RandomForest_v2
+note: Expanded dataset version for stable training
+rows_used: 400

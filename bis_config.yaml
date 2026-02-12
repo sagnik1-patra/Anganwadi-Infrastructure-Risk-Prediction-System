@@ -1,0 +1,9 @@
+accuracy: 0.9952380952380953
+best_max_depth: 10
+best_n_estimators: 382
+feature_weights:
+- 1.0314549141893052
+- 0.7879453426759925
+- 0.9928195845328246
+- 0.7999420697770226
+model: Hybrid_BA_AIS_RandomForest
